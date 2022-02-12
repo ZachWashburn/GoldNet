@@ -1,0 +1,9 @@
+﻿  GoldNetTests.cpp
+C:\Users\user\source\repos\GoldNet\GoldNet\GoldNet.h(74,1): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\user\source\repos\GoldNet\GoldNetTests\GoldNetTests.cpp(37,21): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  1 of 702 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  GoldNetTests.vcxproj -> C:\Users\user\source\repos\GoldNet\x64\Release\GoldNetTests.exe

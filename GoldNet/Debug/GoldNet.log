@@ -1,0 +1,4 @@
+﻿  GoldNet.cpp
+C:\Users\user\source\repos\GoldNet\GoldNet\GoldNet.cpp(73,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\GoldNet\GoldNet\GoldNet.cpp(447): warning C4715: 'NET_IntrnlConnectTCP': not all control paths return a value
+  GoldNet.vcxproj -> C:\Users\user\source\repos\GoldNet\Debug\GoldNet.lib

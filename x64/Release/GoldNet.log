@@ -1,0 +1,19 @@
+﻿  GoldNet.cpp
+C:\Users\user\source\repos\GoldNet\GoldNet\GoldNet.h(74,1): warning C4267: '=': conversion from 'size_t' to 'uint32_t', possible loss of data
+C:\Users\user\source\repos\GoldNet\GoldNet\GoldNet.cpp(47,16): warning C4309: '=': truncation of constant value
+C:\Users\user\source\repos\GoldNet\GoldNet\GoldNet.cpp(74,50): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\user\source\repos\GoldNet\GoldNet\GoldNet.cpp(193,135): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\user\source\repos\GoldNet\GoldNet\GoldNet.cpp(257,50): warning C4244: '=': conversion from 'SOCKET' to 'unsigned int', possible loss of data
+C:\Users\user\source\repos\GoldNet\GoldNet\GoldNet.cpp(262,50): warning C4244: '=': conversion from 'SOCKET' to 'unsigned int', possible loss of data
+C:\Users\user\source\repos\GoldNet\GoldNet\GoldNet.cpp(319,36): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\user\source\repos\GoldNet\GoldNet\GoldNet.cpp(395,40): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\user\source\repos\GoldNet\GoldNet\GoldNet.cpp(501,36): warning C4244: 'argument': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\user\source\repos\GoldNet\GoldNet\GoldNet.cpp(485,16): warning C4309: 'return': truncation of constant value
+C:\Users\user\source\repos\GoldNet\GoldNet\GoldNet.cpp(498,20): warning C4309: 'return': truncation of constant value
+C:\Users\user\source\repos\GoldNet\GoldNet\GoldNet.cpp(506,20): warning C4309: 'return': truncation of constant value
+C:\Users\user\source\repos\GoldNet\GoldNet\GoldNet.cpp(536,20): warning C4244: 'return': conversion from 'SOCKET' to 'unsigned int', possible loss of data
+C:\Users\user\source\repos\GoldNet\GoldNet\GoldNet.cpp(547,64): warning C4244: 'argument': conversion from 'SOCKET' to 'unsigned int', possible loss of data
+C:\Users\user\source\repos\GoldNet\GoldNet\GoldNet.cpp(616,32): warning C4244: 'argument': conversion from 'SOCKET' to 'int', possible loss of data
+C:\Users\user\source\repos\GoldNet\GoldNet\GoldNet.cpp(629,37): warning C4244: 'return': conversion from 'SOCKET' to 'unsigned int', possible loss of data
+C:\Users\user\source\repos\GoldNet\GoldNet\GoldNet.cpp(655,80): warning C4244: 'argument': conversion from 'SOCKET' to 'unsigned int', possible loss of data
+  GoldNet.vcxproj -> C:\Users\user\source\repos\GoldNet\x64\Release\GoldNet.lib

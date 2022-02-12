@@ -1,0 +1,3 @@
+﻿  GoldNetTests.cpp
+C:\Users\user\source\repos\GoldNet\GoldNetTests\GoldNetTests.cpp(30,21): warning C4018: '<': signed/unsigned mismatch
+  GoldNetTests.vcxproj -> C:\Users\user\source\repos\GoldNet\Debug\GoldNetTests.exe
