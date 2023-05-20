@@ -11,7 +11,7 @@ AES256 Encryption and LZSS Compression Coming Soon!
 
 Simple Use Is As Follows :
 
-```
+```C++
 GN::NET_Initialize();
 GN::NET_InitializeWinSocks();
 
